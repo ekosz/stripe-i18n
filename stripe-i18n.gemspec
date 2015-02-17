@@ -23,6 +23,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "rspec-rails", "= 2.14.2"
   spec.add_development_dependency "i18n-spec", "= 0.4.0"
+  spec.add_development_dependency 'spork', '~> 1.0rc'
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
 end
