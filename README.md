@@ -1,4 +1,8 @@
-# StripeI18n
+StripeI18n
+==========
+
+[![Build
+Status](https://secure.travis-ci.org/ekosz/stripe-i18n.png)](http://travis-ci.org/ekosz/stripe-i18n)
 
 The gem adds a collection of translated error strings for `Stripe::CardError`.
 
