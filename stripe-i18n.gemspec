@@ -9,7 +9,6 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eric Koslow"]
   spec.email         = ["ekoslow@gmail.com"]
   spec.summary       = %q{Ruby i18n translations for Stripe error messages.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
