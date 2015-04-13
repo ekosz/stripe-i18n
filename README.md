@@ -8,7 +8,12 @@ The gem adds a collection of translated error strings for `Stripe::CardError`.
 
 **Supported Locales:**
 
-1. en
+1. en (English - US)
+1. de (German)
+1. fr (French)
+1. it (Italian)
+1. nl (Dutch)
+1. pt-BR (Portuguese - Brazil)
 
 ## Installation
 
