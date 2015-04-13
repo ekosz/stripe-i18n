@@ -6,9 +6,10 @@ require 'stripe_i18n/version'
 Gem::Specification.new do |spec|
   spec.name          = "stripe-i18n"
   spec.version       = StripeI18n::VERSION
-  spec.authors       = ["Eric Koslow"]
-  spec.email         = ["ekoslow@gmail.com"]
+  spec.authors       = ["Eric Koslow", "Spencer Bell"]
+  spec.email         = ["ekoslow@gmail.com", "spencer@teespring.com"]
   spec.summary       = %q{Ruby i18n translations for Stripe error messages.}
+  spec.description   = %q{Currently supports German (de), French (fr), Italian (it), Dutch (nl), Spanish (es), and Brazilian Portuguese (pt-BR)}
   spec.homepage      = ""
   spec.license       = "MIT"
 
