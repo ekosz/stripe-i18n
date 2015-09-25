@@ -1,7 +1,7 @@
 ru:
   stripe:
     errors:
-      incorrect_number: "Не верный номер карты."
+      incorrect_number: "Неверный номер карты."
       invalid_number: "Не действительный номер карты."
       invalid_expiry_month: "Неверный месяц истечения срока действия карты."
       invalid_expiry_year: "Неверный год истечения срока действия карты."
