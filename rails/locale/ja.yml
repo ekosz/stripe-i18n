@@ -1,0 +1,15 @@
+ja:
+  stripe:
+    errors:
+      incorrect_number: "クレジットカード番号が正しくありません。"
+      invalid_number: "クレジットカード番号が無効です。"
+      invalid_expiry_month: "クレジットカード有効期限月が不正です。"
+      invalid_expiry_year: "クレジットカード有効期限年が不正です。"
+      invalid_cvc: "クレジットカードセキュリティコードが不正です。"
+      expired_card: "クレジットカードが有効期限切れです。"
+      incorrect_cvc: "クレジットカードセキュリティコードが正しくありません。"
+      incorrect_zip: "クレジットカードの請求先郵便番号が不正です。"
+      card_declined: "クレジットカードへの請求が拒否されました。"
+      missing: "クレジットカードが設定されていません。"
+      processing_error: "クレジットカード処理でエラーが発生しました。"
+      rate_limit: "処理中にエラーが発生しました。エラーが続くようであればユーザーサポートにお知らせください。"
