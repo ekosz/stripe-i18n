@@ -17,6 +17,7 @@ The gem adds a collection of translated error strings for `Stripe::CardError`.
 1. pt-BR (Portuguese - Brazil)
 1. ru (Russian)
 1. nb (Norwegian)
+1. ja (Japanese)
 
 ## Installation
 
