@@ -12,4 +12,4 @@ zh-HK:
       card_declined: "信用卡被拒絕"
       missing: "沒有客戶信用卡被付款"
       processing_error: "在處理信用卡時發生錯誤"
-      rate_limit: "發生錯誤,由於在處理requests hitting the API too quickly. 請讓我們知道，如果你經常碰到這個問題"
+      rate_limit: "由於請求過快地觸及API，因此發生錯誤。如果您一直遇到此錯誤，請告知我們。"
