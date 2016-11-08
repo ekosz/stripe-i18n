@@ -19,8 +19,11 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency('i18n', '~> 0.6')
-  spec.add_runtime_dependency('railties', '>= 4.0')
-
+  if RUBY_VERSION >= '2.2.2'
+    spec.add_runtime_dependency('railties', '>= 4.0')
+  else
+    spec.add_runtime_dependency('railties', '~> 4.0')
+  end
   spec.add_development_dependency "rspec-rails", "= 2.14.2"
   spec.add_development_dependency "i18n-spec", "= 0.4.0"
   spec.add_development_dependency 'spork', '~> 1.0rc'
