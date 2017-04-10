@@ -1,0 +1,15 @@
+da:
+  stripe:
+    errors:
+      incorrect_number: "Kortet er forkert."
+      invalid_number: "Det kortnummeret er ikke et gyldigt kreditkortnummer."
+      invalid_expiry_month: "Kortets udløbsmåned er ugyldig."
+      invalid_expiry_year: "Kortets udløbsdato år er ugyldig."
+      invalid_cvc: "Kortets sikkerhedskode er ugyldig."
+      expired_card: "Kortet er udløbet."
+      incorrect_cvc: "Kortets sikkerhedskode er forkert."
+      incorrect_zip: "Kortets postnummer mislykkedes valideringen."
+      card_declined: "Kortet blev afvist."
+      missing: "Der er ikke noget kort på en kunde, der oplades."
+      processing_error: "Der opstod en fejl under behandling af kortet."
+      rate_limit: "Der opstod en fejl på grund af anmodninger rammer API for hurtigt. Lad os vide, hvis du konsekvent kører ind i denne fejl."
