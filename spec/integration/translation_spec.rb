@@ -13,7 +13,7 @@ describe "Translation" do
     end
 
     it "is available" do
-      translation.should == "The card has expired."
+      expect(translation).to eq("The card has expired.")
     end
   end
 end
