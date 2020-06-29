@@ -1,0 +1,15 @@
+in:
+  stripe:
+    errors:
+      incorrect_number: "Nomor kartu kredit anda salah."
+      invalid_number: "Nomor kartu kredit anda tidak valid."
+      invalid_expiry_month: "Bulan kedaluwarsa pada kartu anda tidak valid."
+      invalid_expiry_year: "Tahun kedaluwarsa pada kartu anda tidak valid."
+      invalid_cvc: "Kode keamanan kartu anda tidak benar."
+      expired_card: "Kartu telah kedaluwarsa."
+      incorrect_cvc: "Kode keamanan kartu anda salah."
+      incorrect_zip: "Kode pos kartu anda salah."
+      card_declined: "Kartu anda ditolak."
+      missing: "Tidak ada kartu pada pelanggan yang ditagih."
+      processing_error: "Terjadi kesalahan saat memproses kartu anda."
+      rate_limit: "Terjadi kesalahan karena permintaan anda terlalu cepat. Beri tahu kami jika Anda secara terus menerus mengalami kesalahan ini."
