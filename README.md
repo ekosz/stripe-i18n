@@ -6,6 +6,10 @@ Status](https://secure.travis-ci.org/ekosz/stripe-i18n.png)](http://travis-ci.or
 
 The gem adds a collection of translated error strings for `Stripe::CardError`.
 
+**ARCHIVED**
+
+Unfortunatly I have not done any work with Ruby in 6+ years now. I have reached out multiple times to the Stripe team trying to hand off this gem to them with no responses. Please feel free to fork this library if you would like revive it!
+
 **Supported Locales:**
 
 1. en (English - US)
