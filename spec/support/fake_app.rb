@@ -1,4 +1,5 @@
 require 'spork'
+require 'socket'
 
 module StripeI18n
   module Spec
